@@ -1,0 +1,25 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Simple Nodejs Server for demonstration purposes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gr8abbasi/nodejs-learn-by-practice.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Tutorials",
+    "Server",
+    "Practical"
+  ],
+  "author": "Muhammad Kashif Abbasi (gr8.abbasi@gmail.com)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gr8abbasi/nodejs-learn-by-practice/issues"
+  },
+  "homepage": "https://github.com/gr8abbasi/nodejs-learn-by-practice"
+}
